@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Faites fructifier votre argent en toute simplicité)
+      label: Faites fructifier votre argent en toute simplicité et en toute sécurité.
       color: text-primary
       type: Badge
     elementId: ''
