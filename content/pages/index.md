@@ -13,7 +13,7 @@ sections:
       recevoir chaque jour 25 % de son retour sur investissement pendant 10
       jours, après une attente initiale de 24 heures.
     actions:
-      - label: Get started
+      - label: COMMENCER
         altText: ''
         url: /
         showIcon: false
