@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: Investissement Pour Un Meilleur Future
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      TIKA PAY est une plateforme d’investissement automatisée qui permet de
+      recevoir chaque jour 25 % de son retour sur investissement pendant 10
+      jours, après une attente initiale de 24 heures.
     actions:
       - label: Get started
         altText: ''
