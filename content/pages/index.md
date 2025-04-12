@@ -62,37 +62,6 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: Francs CFA
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature1.svg
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-4
-              - pl-4
-              - pb-4
-              - pr-4
-            borderRadius: full
-            flexDirection: row
-            margin:
-              - mt-0
-              - ml-0
-              - mb-0
-              - mr-0
-            justifyContent: flex-end
-            borderStyle: dotted
-      - type: FeaturedItem
         title: Moyen de paiement Unique
         subtitle: Portefeuille électronique
         text: >+
