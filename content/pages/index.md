@@ -79,10 +79,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-10
+              - pt-4
+              - pl-4
+              - pb-4
+              - pr-4
             borderRadius: full
             flexDirection: row
       - type: FeaturedItem
