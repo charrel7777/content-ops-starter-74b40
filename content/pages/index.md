@@ -41,6 +41,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+        textDecoration: underline
     type: GenericSection
   - type: GenericSection
     title:
