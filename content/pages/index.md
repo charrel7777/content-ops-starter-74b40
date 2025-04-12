@@ -64,10 +64,22 @@ sections:
       - type: FeaturedItem
         title: Moyen de paiement Unique
         subtitle: Portefeuille électronique
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          **Paiement 100% Sécurisé**
+
+
+          Pour vous offrir une expérience fluide, rapide et entièrement
+          sécurisée, nous utilisons un seul mode de paiement : le portefeuille
+          électronique.
+
+          Les transactions se font exclusivement via Trust Wallet ou SafePal,
+          deux applications reconnues pour leur fiabilité et leur simplicité
+          d'utilisation.
+
+
+          <div style="text-align: center">**Investissez en toute confiance, avec
+          les meilleures solutions du marché**.</div>
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
