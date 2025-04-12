@@ -105,7 +105,7 @@ sections:
     actions:
       - label: 'COMMENCER A INVESTIR '
         altText: ''
-        url: /
+        url: '/https://t.me/+M-Xz1xcaGWNhZDY0'
         showIcon: false
         icon: arrowRight
         iconPosition: right
