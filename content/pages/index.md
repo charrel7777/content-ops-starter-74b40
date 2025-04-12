@@ -42,6 +42,7 @@ sections:
       subtitle:
         textAlign: center
         textDecoration: underline
+        fontWeight: 400
     type: GenericSection
   - type: GenericSection
     title:
