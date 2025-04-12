@@ -2,54 +2,6 @@
 title: Home
 slug: /
 sections:
-  - type: GenericSection
-    title:
-      text: TIKA PAY
-      color: text-dark
-      type: TitleBlock
-    subtitle: Investissement Pour Un Meilleur Future
-    text: >
-      TIKA PAY est une plateforme d’investissement automatisée qui permet de
-      recevoir chaque jour 25 % de son retour sur investissement pendant 10
-      jours, après une attente initiale de 24 heures.
-    actions:
-      - label: COMMENCER
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
-    media:
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
-    badge:
-      label: Faites fructifier votre argent en toute simplicité et en toute sécurité.
-      color: text-primary
-      type: Badge
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
   - type: DividerSection
     title: Divider
     elementId: ''
