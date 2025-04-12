@@ -104,7 +104,7 @@ sections:
               borderRadius: x-large
     actions:
       - label: 'COMMENCER A INVESTIR '
-        altText: ''
+        altText: Ici
         url: '/https://t.me/+M-Xz1xcaGWNhZDY0'
         showIcon: false
         icon: arrowRight
