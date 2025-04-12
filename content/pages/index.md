@@ -53,11 +53,15 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Les investissements sur TIKA PAY sont compris en 30$ et 5000$ ou plus.
+
+
+      pour les pays utilisant le Franc CFA, les investissements a partir de
+      15.000franc sont bien reçu. Par contre, pour les autres monnaies et
+      devises, notamment le EUR, le USD, le YPJ, le GBP, et autres (
+      cryptomonnaie), les investissements sont reçu ca partir de 30$ ou 50$
+      minimum.
     actions: []
     media:
       title: Title of the video
