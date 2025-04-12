@@ -84,7 +84,7 @@ sections:
               - pb-8
               - pr-8
             borderRadius: x-large
-            flexDirection: col
+            flexDirection: row
       - type: FeaturedItem
         title: Moyen de paiement Unique
         subtitle: Portefeuille électronique
