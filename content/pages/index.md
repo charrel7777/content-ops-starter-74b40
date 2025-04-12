@@ -103,7 +103,7 @@ sections:
             self:
               borderRadius: x-large
     actions:
-      - label: Get started
+      - label: 'COMMENCER A INVESTIR '
         altText: ''
         url: /
         showIcon: false
