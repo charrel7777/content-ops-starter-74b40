@@ -89,7 +89,7 @@ sections:
               - mt-5
               - ml-5
               - mb-5
-              - mr-5
+              - mr-11
       - type: FeaturedItem
         title: Moyen de paiement Unique
         subtitle: Portefeuille électronique
