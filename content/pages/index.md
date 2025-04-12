@@ -21,11 +21,12 @@ sections:
           fontWeight: 700
       type: TitleBlock
     subtitle: Qui sommes nous ?
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Nous sommes **TIKA PAY**, Une plateforme qui permet aux utilisateurs
+      d’investir une somme d’argent et de recevoir **25 %** de leur
+      investissement chaque jour pendant **10 jours**  ou **10%** de leur
+      investissement pendant **30jours**, juste après un délai d'attente de **24
+      heures**..
     badge:
       label: 'Investissez dès aujourd’hui, récoltez dès demain.'
       color: text-primary
