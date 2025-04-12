@@ -46,7 +46,7 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: Combien peut-on investir sur TIKA PAY !!
       color: text-dark
       styles:
         self:
