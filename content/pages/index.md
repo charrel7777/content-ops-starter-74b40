@@ -90,7 +90,7 @@ sections:
               - ml-0
               - mb-0
               - mr-0
-            justifyContent: center
+            justifyContent: flex-end
       - type: FeaturedItem
         title: Moyen de paiement Unique
         subtitle: Portefeuille électronique
