@@ -86,10 +86,10 @@ sections:
             borderRadius: full
             flexDirection: row
             margin:
-              - mt-5
-              - ml-5
-              - mb-5
-              - mr-11
+              - mt-0
+              - ml-0
+              - mb-0
+              - mr-0
       - type: FeaturedItem
         title: Moyen de paiement Unique
         subtitle: Portefeuille électronique
