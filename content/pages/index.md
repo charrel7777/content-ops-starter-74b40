@@ -78,9 +78,8 @@ sections:
       text: ' Tableau explicatif des revenus par jour.'
       color: text-dark
     subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: |2
+       Investissez dès aujourd’hui, récoltez dès demain après une attente de 24h. TIKA PAY vous verse les 1/4 de votre investissement chaque jour pendant 10jours. 
     actions:
       - type: Button
         label: Get started
