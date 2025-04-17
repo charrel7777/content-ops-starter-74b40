@@ -110,7 +110,7 @@ sections:
       text: Social Media Management
       color: text-dark
       type: TitleBlock
-    subtitle: 'WHATSAPP :'
+    subtitle: 'CONTACTS:'
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
