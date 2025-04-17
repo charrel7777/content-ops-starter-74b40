@@ -111,7 +111,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: 'CONTACTS:'
-    text: "**WHATSAPP**: Suivre la chaîne TIKA PAY Invest sur WhatsApp\_\_: https\\://whatsapp.com/channel/0029VbAotgt9mrGcUro6bC2t\n\n**TIKTOK**:\n\n**TELEGRAMME:**\n"
+    text: "**WHATSAPP**: *Cliquez ici*\_: <https://whatsapp.com/channel/0029VbAotgt9mrGcUro6bC2t>\n\n**TIKTOK**:\n\n**TELEGRAMME:**\n"
     actions:
       - label: See Tutorials
         url: /
