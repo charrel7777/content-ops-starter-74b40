@@ -127,7 +127,7 @@ sections:
         style: secondary
         type: Button
     media:
-      url: /images/hero2.svg
+      url: /images/35ea74ca-de7a-4f1b-8f3c-a5192e53834c.png
       altText: Fun feature preview
       type: ImageBlock
     badge:
