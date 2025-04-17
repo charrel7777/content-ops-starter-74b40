@@ -303,7 +303,7 @@ sections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: 'https://whatsapp.com/channel/0029VbAotgt9mrGcUro6bC2t/113'
       autoplay: true
       loop: true
       muted: true
