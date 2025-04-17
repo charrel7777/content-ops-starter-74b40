@@ -115,12 +115,6 @@ sections:
       A service that helps businesses to manage their social media accounts and
       posts.
     actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
       - label: See Tutorials
         url: /
         showIcon: true
@@ -128,6 +122,12 @@ sections:
         iconPosition: right
         style: primary
         type: Link
+      - label: Get started
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        type: Button
     media:
       url: /images/hero2.svg
       altText: Fun feature preview
