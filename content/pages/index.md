@@ -111,31 +111,12 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: 'CONTACTS:'
-    text: |+
-      WHATSAPP:
+    text: |
+      **WHATSAPP**:
 
-
-
-      FACEBOOK:
-
-
-
-      **TIKTOK**: 
-
-
+      **TIKTOK**:
 
       **TELEGRAMME:**
-
-      ****
-
-      **INSTAGRAM:**
-
-      ****
-
-      **YOUTUBE:**
-
-
-
     actions:
       - label: See Tutorials
         url: /
