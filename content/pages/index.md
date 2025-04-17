@@ -303,7 +303,7 @@ sections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: 'https://whatsapp.com/channel/0029VbAotgt9mrGcUro6bC2t/113'
+      url: 'https://bit.ly/3RqFKrz'
       autoplay: true
       loop: true
       muted: true
