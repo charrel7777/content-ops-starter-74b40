@@ -111,7 +111,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: 'CONTACTS:'
-    text: "**WHATSAPP**: *Cliquez ici*\_: https\\://bit.ly/4j91Qeg\n\n**TIKTOK**:\n\n**TELEGRAMME:**\n"
+    text: "**WHATSAPP**: *Cliquez ici*\_: [https://bit.ly/4j91Qeg](https://bit.ly/4j91QegTikTok:)\n\n\n\n**TIKTOK** :*Cliquez ici*: [https://bit.ly/3Y335TS](https://bit.ly/3Y335TSTELEGRAMM:)\n\n\n\n**TÉLÉGRAM**[:](https://bit.ly/3Y335TSTELEGRAMM:) *Cliquez ici* <https://bit.ly/3RnfzSI>\n"
     actions:
       - label: See Tutorials
         url: /
