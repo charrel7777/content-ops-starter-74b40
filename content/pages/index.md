@@ -111,9 +111,31 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: 'CONTACTS:'
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: |+
+      WHATSAPP:
+
+
+
+      FACEBOOK:
+
+
+
+      **TIKTOK**: 
+
+
+
+      **TELEGRAMME:**
+
+      ****
+
+      **INSTAGRAM:**
+
+      ****
+
+      **YOUTUBE:**
+
+
+
     actions:
       - label: See Tutorials
         url: /
