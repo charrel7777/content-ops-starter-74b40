@@ -192,11 +192,7 @@ sections:
           - pr-7
     type: DividerSection
   - subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: "**WHATSAPP**: *Cliquez ici*\_: [https://bit.ly/4j91Qeg](https://bit.ly/4j91QegTikTok:)\n\n**TIKTOK** :*Cliquez ici*: [https://bit.ly/3Y335TS](https://bit.ly/3Y335TSTELEGRAMM:)\n\n**TÉLÉGRAM**[:](https://bit.ly/3Y335TSTELEGRAMM:) *Cliquez ici* <https://bit.ly/3RnfzSI>\n"
     badge:
       label: 'CONTACTEZ-NOUS:'
       color: text-primary
